@@ -2,9 +2,7 @@
 
 CartPole is a classic reinforcement learning control problem where an agent must balance an inverted pendulum mounted on a moving cart. The cart can move left or right along a frictionless track, while the pole is attached via a passive joint and naturally tends to fall due to gravity.
 
-The agent’s task is to apply discrete forces to the cart so that the pole remains upright for as long as possible. This problem is commonly used as a benchmark for testing learning algorithms because it is simple to describe, yet non-trivial to solve.
-
----
+![CartPole](images/cartpole.gif)
 
 ## CartPole Environment
 
@@ -71,8 +69,6 @@ The best-performing genome is saved and reused for visualization and evaluation.
 
 - **network visualization**  
   Generates a Graphviz diagram showing the evolved neural network structure and connection weights.
-
-
 
 <!-- PLACE GIF BELOW -->
 
