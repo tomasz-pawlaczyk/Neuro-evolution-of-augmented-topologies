@@ -6,7 +6,7 @@ This project applies the NEAT (NeuroEvolution of Augmenting Topologies) algorith
 
 The CartPole environment is a classic control problem where a pole is attached to a moving cart.  The goal is to balance the pole upright by applying forces to the cart in left or right directions.  This environment is commonly used to test reinforcement learning algorithms and control strategies.
 
-<img src="images/a4bb2f1ae0de2c4c97715b0e4385812365aa2590.gif" title="" alt="" width="487">
+<img src="cartpole/cartpole.gif" title="" alt="" width="487">
 
 ### How it Works
 
@@ -31,7 +31,7 @@ The agent receives **+1 reward** for every step the pole remains upright, includ
 
 The Pendulum environment is a classic control problem where a single pendulum is attached to a fixed point. The goal is to apply continuous torque to swing the pendulum upward and keep it balanced in the upright position.
 
-<img title="" src="images/461a8128f6f01fa9577dc63caddab6955759af7f.gif" alt="acrobot" width="450">
+<img title="" src="pendulum/pendulum.gif" alt="pendulum" width="450">
 
 ### How it Works
 
